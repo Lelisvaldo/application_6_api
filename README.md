@@ -1,4 +1,4 @@
-# application_6
+# application_6_api
 
 Consumindo API REST no Flutter (Dio, http e Uno)
 
